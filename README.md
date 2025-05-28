@@ -1,1 +1,1 @@
-# New_cypress
+# Автотесты в фреймворке Cypress 
